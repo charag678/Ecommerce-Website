@@ -3,9 +3,9 @@
 A Ecommerce Website made with React.js 
 
 
-## Demo 🎬
+## Preview 👀
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9156c518-ceac-4fe5-8baf-906c4dca0049/deploy-status)](https://app.netlify.com/sites/chirag-ecommerce/deploys)
+[Live Demo](https://chirag-ecommerce.netlify.app/)
 
 ## Features ✨
 
